@@ -1,3 +1,4 @@
+
 class Eye {
     constructor(center_x, center_y, lid_arc_angle, radius, eyeball_color) {
         this.x = center_x;
@@ -116,4 +117,7 @@ class Eye {
         this.mouse_x = x;
         this.mouse_y = y;
     }
+}
+export {
+    Eye
 }
