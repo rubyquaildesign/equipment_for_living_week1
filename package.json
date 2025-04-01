@@ -1,0 +1,24 @@
+{
+  "name": "equipment_for_living_week1",
+  "version": "1.0.0",
+  "description": "This is a response to the first class of Equipment for Living: https://sfpc.study/sessions/spring-25/equipment-for-living",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strangeties/equipment_for_living_week1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strangeties/equipment_for_living_week1/issues"
+  },
+  "homepage": "https://github.com/strangeties/equipment_for_living_week1#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket-io": "^1.0.0"
+  }
+}
